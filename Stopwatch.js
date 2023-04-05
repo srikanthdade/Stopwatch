@@ -92,4 +92,4 @@ lapbtn.onclick = function () {
   }
   lapCount += 1;
   if (lapCount == 6) lapCount = 1;
-};
+}
